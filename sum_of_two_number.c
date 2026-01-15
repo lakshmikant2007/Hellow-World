@@ -9,3 +9,4 @@ int main()
     printf(" sum of %d and %d is %d ",a,b,c);
     getch();
 }
+
