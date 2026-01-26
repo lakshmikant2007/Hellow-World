@@ -7,3 +7,4 @@ int main ()
     max = (a>b)? ( a>c?a:c ):(b>c?b:c);
     printf("%d",max);
 }
+
