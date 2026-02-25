@@ -15,3 +15,4 @@ int f1(int n)
     s=n+f1(n-1);
     return (s);
 }
+
