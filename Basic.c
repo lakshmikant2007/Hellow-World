@@ -8,3 +8,4 @@ int main()
     printf("area=%.2f",area);
     return 0;
 }
+
