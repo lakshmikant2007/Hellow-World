@@ -8,3 +8,4 @@ int main()
     printf("square=%d",square);
     return 0;
 }
+
