@@ -8,3 +8,4 @@ int main() {
     printf("Simple Interest = %.2f", SI);
     return 0;
 }
+
