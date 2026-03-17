@@ -1,3 +1,5 @@
+// The objective of this program is to develop a menu-driven employee database system using structures in c language .
+// The program allows the user to create, read, modify and delete employee records.
 #include <stdio.h>
 #include <string.h>
 
